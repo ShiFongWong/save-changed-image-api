@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\save-changed-image-api.props" />
+</Project>

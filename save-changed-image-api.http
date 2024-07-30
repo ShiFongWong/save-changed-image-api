@@ -1,0 +1,6 @@
+@save_changed_image_api_HostAddress = http://localhost:5208
+
+GET {{save_changed_image_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
