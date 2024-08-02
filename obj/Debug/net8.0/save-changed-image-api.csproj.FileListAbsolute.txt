@@ -137,3 +137,4 @@ C:\Users\shifong0303\Documents\TortoiseGit\connextion-all\save-changed-image\sav
 C:\Users\shifong0303\Documents\TortoiseGit\connextion-all\save-changed-image\save-changed-image-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\shifong0303\Documents\TortoiseGit\connextion-all\save-changed-image\save-changed-image-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\shifong0303\Documents\TortoiseGit\connextion-all\save-changed-image\save-changed-image-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\shifong0303\Documents\TortoiseGit\connextion-all\save-changed-image\save-changed-image-api\bin\Debug\net8.0\save-changed-image-api.staticwebassets.runtime.json

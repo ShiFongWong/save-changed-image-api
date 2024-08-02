@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b627dd68b04193adc812856099fcfb325c46dee7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f5a4e49bda2b63439d145b4653a671cedc061d")]
 [assembly: System.Reflection.AssemblyProductAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

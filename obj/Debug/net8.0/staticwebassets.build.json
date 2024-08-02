@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "mTu8IbtnWKfa3BX2tBmPWQDyVZtLYSzZI0wQ/gZpshw=",
+  "Hash": "cmwSLWFv6Cx4x/14FSZZflwRClfTUju2STijo37Sp4w=",
   "Source": "save-changed-image-api",
   "BasePath": "_content/save-changed-image-api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "save-changed-image-api\\wwwroot",
+      "Source": "save-changed-image-api",
+      "ContentRoot": "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\wwwroot\\",
+      "BasePath": "_content/save-changed-image-api",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

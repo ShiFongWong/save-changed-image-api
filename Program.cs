@@ -13,7 +13,7 @@ public class Program
                 webBuilder.UseKestrel(options =>
                 {
                     options.ListenAnyIP(8001);
-                    options.ListenAnyIP(8002, listenOptions => listenOptions.UseHttps());
+                    //options.ListenAnyIP(8002, listenOptions => listenOptions.UseHttps());
                 });
             });
 }
