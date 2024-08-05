@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MyApi.Controllers
@@ -7,6 +8,7 @@ namespace MyApi.Controllers
     public class MyController : ControllerBase
     {
         [HttpGet]
+        [EnableCors("AllowAllOrigins")]
         public IActionResult Get()
         {
             return Ok(new { Message = "Hello, World!" });

@@ -277,3 +277,4 @@ C:\Users\16089\save-changed-image-api\obj\Debug\net8.0\save-changed-image-api.ge
 C:\Users\16089\save-changed-image-api\obj\Debug\net8.0\ref\save-changed-image-api.dll
 C:\Users\16089\save-changed-image-api\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\16089\save-changed-image-api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\16089\save-changed-image-api\bin\Debug\net8.0\save-changed-image-api.staticwebassets.runtime.json

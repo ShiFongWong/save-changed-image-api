@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f5a4e49bda2b63439d145b4653a671cedc061d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e703ec1d72665c417f4817c4e4a796dc13b1c2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("save-changed-image-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
