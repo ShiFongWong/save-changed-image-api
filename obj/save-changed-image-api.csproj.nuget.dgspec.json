@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\save-changed-image-api.csproj": {}
+    "C:\\Users\\16089\\save-changed-image-api\\save-changed-image-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\save-changed-image-api.csproj": {
+    "C:\\Users\\16089\\save-changed-image-api\\save-changed-image-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\save-changed-image-api.csproj",
+        "projectUniqueName": "C:\\Users\\16089\\save-changed-image-api\\save-changed-image-api.csproj",
         "projectName": "save-changed-image-api",
-        "projectPath": "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\save-changed-image-api.csproj",
-        "packagesPath": "C:\\Users\\shifong0303\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shifong0303\\Documents\\TortoiseGit\\connextion-all\\save-changed-image\\save-changed-image-api\\obj\\",
+        "projectPath": "C:\\Users\\16089\\save-changed-image-api\\save-changed-image-api.csproj",
+        "packagesPath": "C:\\Users\\16089\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\16089\\save-changed-image-api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shifong0303\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\16089\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,6 +42,10 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -63,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\16089\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
